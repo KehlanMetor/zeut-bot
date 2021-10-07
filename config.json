@@ -1,0 +1,13 @@
+{
+
+    "OWNER_ID":"684444122609614865",
+    "BOT_TOKEN": "process.env.TOKEN",
+    "tenorAPI":"ZEEELJXAFQBN",
+    "DEFAULT_PREFIX":"+",
+    "mongoPass": "mongodb+srv://KehlanMetor:skinnyfdp1@bot-discord.zbg8s.mongodb.net/test",
+    "ERROR_LOGS_CHANNEL": "894903256038408212",
+    "ALEXFLIPNOTE_API_KEY":"KsLCBc5k2M4knsy1R9MabZq-4khPGisEhXOpozam",
+    "YT_COOKIE": "AIzaSyDT81wm2xadFC6OfjV0KqYTbOpqoKJp_-c"
+    
+}
+
