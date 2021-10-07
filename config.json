@@ -1,0 +1,13 @@
+{
+
+    "OWNER_ID":"684444122609614865",
+    "BOT_TOKEN": "process.env.TOKEN",
+    "tenorAPI":"ZEEELJXAFQBN",
+    "DEFAULT_PREFIX":"+",
+    "mongoPass": "https://cloud.mongodb.com/v2/608c21197674d77d3ac66855#clusters/detail/LaCafetariat",
+    "ERROR_LOGS_CHANNEL": "",
+    "ALEXFLIPNOTE_API_KEY":"KsLCBc5k2M4knsy1R9MabZq-4khPGisEhXOpozam",
+    "YT_COOKIE": "AIzaSyDT81wm2xadFC6OfjV0KqYTbOpqoKJp_-c"
+    
+}
+
